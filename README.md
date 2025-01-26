@@ -23,8 +23,8 @@
 
 
 ## Документация
-Полный текст с описанием всего этапа прототипирования, разработки и исследования изложен в файле ProjectText.docx, расположенном в папке Documentation
-Блок-схема разработана в программе Microsoft Visio. Находится в папке Documentation
+Полный текст с описанием всего этапа прототипирования, разработки и исследования изложен в [файле](Documentation/ProjectText.docx) ProjectText.docx, расположенном в папке Documentation.
+Блок-схема разработана в программе Microsoft Visio и находится в папке Documentation в [файле](Documentation/Block diagram.vsdx)  Block diagram.vsdx, расположенном в папке Documentation.
 
 ## Советы
 
